@@ -1,3 +1,3 @@
 # JUDE
 
-is an upcoming developer
+He is an upcoming developer 
